@@ -5,6 +5,12 @@ public class P1 {
 
 	    for(int i=1;i<=5;i++){  
 	        System.out.println(i);  
+	        System.out.println(i); 
+	        System.out.println(i); 
+	        System.out.println(i); 
+	        System.out.println(i); 
+	        System.out.println(i); 
+	        
 	    }  
 	    
 	}  
