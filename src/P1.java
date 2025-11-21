@@ -11,6 +11,14 @@ public class P1 {
 	        System.out.println(i); 
 	        System.out.println(i); 
 	        
+	      //  *****************************************
+	        
+	        
+	        System.out.println(i); 
+	        System.out.println(i); 
+	        System.out.println(i); 
+	        System.out.println(i); 
+	        
 	    }  
 	    
 	}  
